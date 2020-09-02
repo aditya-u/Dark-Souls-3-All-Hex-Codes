@@ -1,3 +1,5 @@
+HEX , NAME
+
 4000006C , Roster of Knights  
 4000006F , Cracked Red Eye Orb  
 400000F0 , Divine Blessing  
@@ -113,7 +115,7 @@
 400003E8 , Titanite Shard  
 400003E9 , Large Titanite Shard  
 400003EA , Titanite Chunk  
-400003EB , Titanite Slab  , Ban-Warning, you can have only 15 in one play through!
+400003EB , Titanite Slab 
 400003FC , Titanite Scale  
 40000406 , Twinkling Titanite  
 4000044C , Heavy Gem  
